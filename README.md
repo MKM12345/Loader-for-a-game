@@ -1,9 +1,4 @@
-# Glowing-Loading-Text-Animation
-A simple Glowing Loading Text Animation.
-This is for the loading Animation only. To make a website appear after is not included.[Ask the question here.](https://stackoverflow.com/)
-# Result Picture:
-![image](https://user-images.githubusercontent.com/120132998/217637473-43b8e2d0-18ee-42ae-94db-b00fe37e15f5.png)
+# Loader-for-a-game
+This is a project to make a simple but cool loader to come before a game.
 
-[See and learn more CSS animations.](https://freefrontend.com/css-animation-examples/)
-
-[View _live_ input here.](https://mkm12345.github.io/) This is combined with the SpaceInvader Game I made, which you can find [here.](https://github.com/MKM12345/games/blob/main/SpaceInvaders.htm)
+[View _live_ input here.](https://mkm12345.github.io/) In this instance, I have made the loader come before a Space Invaders game, but you can swap it with anything.
